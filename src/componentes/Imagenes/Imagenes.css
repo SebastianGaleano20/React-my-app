@@ -1,0 +1,15 @@
+.ph {
+    margin-top: 10px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 60%;
+    float: left;
+  }
+  .ph img {
+    max-width: 48%;
+    margin-left: 6px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+  }
+  
+  

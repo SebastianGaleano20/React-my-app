@@ -1,0 +1,25 @@
+.banner a {
+    list-style-type: none;
+    text-decoration-line: none;
+    color: white;
+  }
+  .banner a:hover {
+    color:#92CDE8;
+  }
+  li {
+    margin: 20px;
+    padding: 20px;
+    display: inline;
+  }
+  .head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 100%;
+    background-color: #0B1C34;
+    color: white;
+    border-radius: 5px;
+  }
+  .head img {
+    max-width: 15vw;
+  }
